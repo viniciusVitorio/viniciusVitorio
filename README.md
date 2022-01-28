@@ -1,4 +1,4 @@
-- 👋 Hello World, I'm Vinicius Vitório
+- 👋 I'm Vinicius Vitório
 - 
 <hr>
 <!---
