@@ -1,4 +1,4 @@
-- 👋 Hello world, I'm Vinicius Vitório
+- <h1>👋 Hello world, I'm Vinicius Vitório</h1>
 
 <hr>
 
