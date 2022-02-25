@@ -1,4 +1,4 @@
-- <h1>👋 Hello world, I'm Vinicius Vitório</h1>
+- <h1 style="display flex; justify-content: center;">👋 Hello world, I'm Vinicius Vitório</h1>
 
 <hr>
 
